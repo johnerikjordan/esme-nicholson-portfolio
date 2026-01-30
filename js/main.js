@@ -6,7 +6,6 @@
  * - Sticky nav shadow on scroll
  * - Active section highlighting
  * - Mobile navigation toggle
- * - Load article images from JSON data
  */
 
 (function() {
@@ -28,7 +27,6 @@
         setupNavShadow();
         setupMobileNav();
         setupActiveSection();
-        loadArticleImages();
     }
 
     /**
@@ -181,52 +179,6 @@
                 link.classList.remove('active');
             }
         });
-    }
-
-    /**
-     * Load article images from JSON data
-     */
-    async function loadArticleImages() {
-        try {
-            const response = await fetch('data/articles.json');
-            if (!response.ok) {
-                console.log('Could not load articles.json');
-                return;
-            }
-
-            const articles = await response.json();
-            const cards = document.querySelectorAll('.card');
-
-            cards.forEach((card, index) => {
-                const article = articles[index];
-                if (!article) return;
-
-                // Update card with image if available
-                if (article.image) {
-                    const imageContainer = card.querySelector('.card__image');
-                    const placeholder = card.querySelector('.card__image-placeholder');
-
-                    if (imageContainer && placeholder) {
-                        const img = document.createElement('img');
-                        img.src = article.image;
-                        img.alt = article.title;
-                        img.loading = 'lazy';
-
-                        img.onload = function() {
-                            placeholder.style.display = 'none';
-                            imageContainer.appendChild(img);
-                        };
-
-                        img.onerror = function() {
-                            // Keep placeholder on error
-                            console.log('Failed to load image for:', article.title);
-                        };
-                    }
-                }
-            });
-        } catch (error) {
-            console.log('Error loading article data:', error);
-        }
     }
 
     // Initialize when DOM is ready
