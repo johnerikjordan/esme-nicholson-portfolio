@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "title": "Looking Back: The Story of Three Defiant Nuns in Austria",
+    "show": "State of the World Podcast",
+    "broadcaster": "National Public Radio",
+    "date": "22nd December 2025",
+    "url": "https://www.npr.org/2025/12/22/nx-s1-5649827/looking-back-the-story-of-three-defiant-nuns-in-austria",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F87%2F4e136da045688f2d08da9fb7c60f%2Fgettyimages-2241802260.jpg",
+    "description": "As we look back at our international reporters' most memorable stories of the last year, we revisit the story of the defiant Austrian nuns."
+  },
+  {
+    "id": 2,
+    "title": "Why should Europe re-engage with the Sahel's military-led states?",
+    "show": "Podcast",
+    "broadcaster": "Stiftung Wissenschaft & Politik",
+    "date": "7th November 2025",
+    "url": "https://www.swp-berlin.org/en/publication/megatrends-afrika-why-should-europe-re-engage-with-the-sahels-military-led-states",
+    "image": "images/swp_03_og.jpg",
+    "description": "A podcast episode discussing why and how the EU should re-engage with the Sahel region."
+  },
+  {
+    "id": 3,
+    "title": "The beginning of the end of democracy? How the US is sliding towards authoritarianism",
+    "show": "Podcast",
+    "broadcaster": "Stiftung Wissenschaft & Politik",
+    "date": "9th October 2025",
+    "url": "https://swp-berlin.org/en/publication/us-sliding-towards-authoritarianism",
+    "image": "images/swp_02_og.jpg",
+    "description": "A podcast discussion examining authoritarian tactics and whether U.S. democracy can be preserved."
+  },
+  {
+    "id": 4,
+    "title": "Germany sees anti-Pride events and restricts rainbow flags ahead of LGBTQ+ parties",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "25th July 2025",
+    "url": "https://www.npr.org/2025/07/25/nx-s1-5471235/germany-pride-lgbtq-berlin",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2Fff%2F12974f4c4889ad5005c1084c4be7%2Fgettyimages-2223452409.jpg",
+    "description": "The head of parliament banned the rainbow flag from the legislative building. Far-right groups have rallied against the LGBTQ+ community."
+  },
+  {
+    "id": 5,
+    "title": "Germany's grandmothers take on the far-right ahead of key state elections",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "27th August 2024",
+    "url": "https://www.npr.org/2024/08/27/g-s1-19581/germany-elections-afd-far-right-migration-grandmothers",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x4480+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2Fbf%2Fbc70d85943cabbcfd8ceeb5f4a20%2Fgettyimages-2154961673.jpg",
+    "description": "Senior women in Germany's east are reaching out to supporters of the far-right Alternative for Germany to try to change minds."
+  },
+  {
+    "id": 6,
+    "title": "Climate change threatens Germany's fairy tale forests",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "5th August 2024",
+    "url": "https://www.npr.org/2023/08/05/1191724399/climate-change-threatens-germanys-fairy-tale-forests",
+    "image": "https://media.npr.org/assets/img/2023/08/03/5_nicholson_forests_dead_trees_in_germanys_harz_mountains2_slide-5359fa66c0afa4f8de2976ec9d0694104c3f7357.jpg",
+    "description": "Germany's dense green spruce forests are being decimated by parasites and climate change."
+  },
+  {
+    "id": 7,
+    "title": "Fax machines permeate Germany's business culture. But parliament is ditching them",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "31st May 2024",
+    "url": "https://www.npr.org/2024/05/31/1248426978/germany-fax-machines-parliament",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3716x2477+0+0/resize/1200x800!/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F05%2F01%2Fgettyimages-1066058540_slide.jpg",
+    "description": "Four out of five companies in Europe's largest economy continue to use fax machines."
+  },
+  {
+    "id": 8,
+    "title": "Germany's far-right AfD is using TikTok to vie for the immigrant vote",
+    "show": "Weekend Edition",
+    "broadcaster": "National Public Radio",
+    "date": "27th April 2024",
+    "url": "https://www.npr.org/2024/04/27/1247649241/germanys-far-right-afd-is-using-tiktok-to-vie-for-the-immigrant-vote",
+    "image": "images/npr_og.png",
+    "description": "In the upcoming elections, the German Anti-Immigrant Party seeks votes from Turkish-German Voters."
+  },
+  {
+    "id": 9,
+    "title": "War without limits: Reducing violence against civilians in contemporary conflicts",
+    "show": "Podcast",
+    "broadcaster": "Stiftung Wissenschaft & Politik",
+    "date": "4th April 2024",
+    "url": "https://www.swp-berlin.org/en/publication/war-without-limits-reducing-violence-against-civilians-in-contemporary-conlicts",
+    "image": "images/swp_01_og.jpg",
+    "description": "A podcast discussing reducing violence against civilians in contemporary conflicts."
+  },
+  {
+    "id": 10,
+    "title": "Why Western Leaders are warily watching the German leader's trip to China",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "3rd November 2022",
+    "url": "https://www.npr.org/2022/11/03/1133867028/germany-olaf-scholz-china-trip",
+    "image": "https://media.npr.org/assets/img/2022/11/03/gettyimages-1244457328_custom-b57a387cee7e14456493a6eddca9d300bd334205.jpg",
+    "description": "German Chancellor Olaf Scholz heads to China to meet with President Xi Jinping."
+  },
+  {
+    "id": 11,
+    "title": "Abortion-rights activists in Germany aim to make the procedure more widely available",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "2nd July 2022",
+    "url": "https://www.npr.org/2022/07/20/1112411662/abortion-rights-activists-in-germany-aim-to-make-the-procedure-more-widely-avail",
+    "image": "images/npr_og.png",
+    "description": "The EU Parliament voted in favor of a resolution to make abortion a fundamental right."
+  },
+  {
+    "id": 12,
+    "title": "Ukrainian Holocaust survivors flee war again — this time to Germany",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "12th April 2022",
+    "url": "https://www.npr.org/2022/04/12/1092289301/germany-berlin-ukraine-holocaust-survivors",
+    "image": "https://media.npr.org/assets/img/2022/04/12/img_2345_slide-bcd0b1a8646d47afa7faa3fe54399a99c7477dd2.jpg",
+    "description": "Germany has welcomed dozens of the oldest refugees fleeing Ukraine — those who survived the Holocaust during World War II."
+  },
+  {
+    "id": 13,
+    "title": "Germany Grapples With Racism After Threats Derail Refugee's Candidacy For Parliament",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "21st April 2021",
+    "url": "https://www.npr.org/2021/04/21/988816485/germany-grapples-with-racism-after-threats-derail-refugees-candidacy-for-parliam",
+    "image": "https://media.npr.org/assets/img/2021/04/19/ap21089407829538-9c0b0ac17085544765c78cb979e2b2d5ab89115d.jpg",
+    "description": "A Syrian refugee in Germany withdrew his bid for parliament over racist threats last month."
+  },
+  {
+    "id": 14,
+    "title": "Ecofeminism, social media & the Climate Crisis",
+    "show": "Our Voices, Our Choices Podcast",
+    "broadcaster": "Heinrich Böll Stiftung",
+    "date": "15th January 2021",
+    "url": "https://www.boell.de/de/media/podcast-episode-podigee/ecofeminism-social-media-climate-crisis-our-voices-our-choices",
+    "image": "images/boell_og.jpg",
+    "description": "Environmental activists discuss why the climate crisis is a feminist issue."
+  },
+  {
+    "id": 15,
+    "title": "Social Media Justice",
+    "show": "Our Voices, Our Choices Podcast",
+    "broadcaster": "Heinrich Böll Stiftung",
+    "date": "20th November 2020",
+    "url": "https://www.boell.de/de/media/podcast-episode-podigee/social-media-justice-our-voices-our-choices",
+    "image": "images/boell_og.jpg",
+    "description": "A podcast episode exploring social media justice."
+  },
+  {
+    "id": 16,
+    "title": "'An Era Is Coming To An End': Travelers Bid Fond Farewell To Berlin's Tegel Airport",
+    "show": "Weekend Edition",
+    "broadcaster": "National Public Radio",
+    "date": "6th November 2020",
+    "url": "https://www.npr.org/2020/11/06/929514384/an-era-is-coming-to-an-end-travelers-bid-fond-farewell-to-berlins-tegel-airport",
+    "image": "https://media.npr.org/assets/img/2020/11/05/gettyimages-1177212365-8147af9de6a403e81bf33924228448bec4c0947c.jpg",
+    "description": "The airport opened in 1948 and is closing as Berlin's new international hub opens."
+  },
+  {
+    "id": 17,
+    "title": "'The House By The Lake' Is A Story Of Reconciliation — And The Meaning Of Home",
+    "show": "Feature",
+    "broadcaster": "National Public Radio",
+    "date": "15th September 2020",
+    "url": "https://www.npr.org/2020/09/15/911859685/the-house-by-the-lake-is-a-story-of-reconciliation-and-the-meaning-of-home",
+    "image": "https://media.npr.org/assets/img/2020/09/15/house_custom-064077f8744925a14b50585c2e8b896b14879780.jpg",
+    "description": "Thomas Harding wrote a memoir centered on what became of his great-grandparents' German house."
+  },
+  {
+    "id": 18,
+    "title": "Feminist Digital Disruption during the Covid-19 Pandemic",
+    "show": "Our Voices, Our Choices Podcast",
+    "broadcaster": "Heinrich Böll Stiftung",
+    "date": "27th August 2020",
+    "url": "https://www.boell.de/de/media/podcast-episode-podigee/feminist-digital-disruption-during-covid-19-pandemic-our-voices-our",
+    "image": "images/boell_og.jpg",
+    "description": "Exploring how feminist activists adapted digital practices during lockdowns."
+  },
+  {
+    "id": 19,
+    "title": "In Quiet-Loving Germany, Motorcyclists Protest A Possible Ban On Loud Sunday Rides",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "29th August 2020",
+    "url": "https://www.npr.org/2020/08/29/905374694/in-quiet-loving-germany-motorcyclists-protest-a-possible-ban-on-loud-sunday-ride",
+    "image": "https://media.npr.org/assets/img/2020/08/24/gettyimages-1228166746-01aeb3003c8a2c5c329d948a3f6b5e2ad1d5a9a6.jpg",
+    "description": "Germans abide by a host of laws to keep noise at a minimum after 10 p.m. and on Sundays."
+  },
+  {
+    "id": 20,
+    "title": "Meet the Jews of the German Far Right",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "21st October 2018",
+    "url": "https://www.npr.org/2018/10/21/655159092/meet-the-jews-of-the-german-far-right",
+    "image": "https://media.npr.org/assets/img/2018/10/16/gettyimages-1047094494-7e8b0c3cb8982f06b16670f76f606be37af6a3e2.jpg",
+    "description": "Fellow Jews in the country are baffled by a small Jewish faction within the Alternative for Germany."
+  },
+  {
+    "id": 21,
+    "title": "German Farmers Struck By Drought Fear Further Damage From Climate Change",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "31st August 2018",
+    "url": "https://www.npr.org/sections/thesalt/2018/08/31/642435250/german-farmers-struck-by-drought-fear-further-damage-from-climate-change",
+    "image": "https://media.npr.org/assets/img/2018/08/27/gettyimages-1005941864_wide-7569e0b7d603a704f3dea4918d8e49f2ac66f60a.jpg",
+    "description": "High temperatures and a severe drought have hit food production in Germany."
+  },
+  {
+    "id": 22,
+    "title": "Massacre Of Teens In Norway Retold As A Feature Film",
+    "show": "Weekend Edition",
+    "broadcaster": "National Public Radio",
+    "date": "24th August 2018",
+    "url": "https://www.npr.org/2018/02/24/588225706/massacre-of-teens-in-norway-retold-as-a-feature-film",
+    "image": "https://media.npr.org/assets/img/2018/02/23/201814411_1_wide-52f589d4f41814e7a62a45851b3e9e8be569d6b6.jpg",
+    "description": "Captured in one 72-minute take, U — July 22 re-enacts the 2011 murders at a summer camp."
+  },
+  {
+    "id": 23,
+    "title": "Minorities In Germany Are Sounding Off Against Racism With #MeTwo Hashtag",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "20th August 2018",
+    "url": "https://www.npr.org/2018/08/20/640141245/germans-with-migrant-backgrounds-take-to-twitter-to-share-stories",
+    "image": "https://media.npr.org/assets/img/2018/08/20/miriam_davoudvandi_2-edit-e871ec2a7abab2b0ed2a0674f5ff9f7f1692d3da.jpg",
+    "description": "After a German soccer player of Turkish descent was criticized during the World Cup, other minorities in Germany have been speaking out."
+  },
+  {
+    "id": 24,
+    "title": "Germany Bulldozes Old Villages For Coal Despite Lower Emissions Goals",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "6th August 2018",
+    "url": "https://www.npr.org/2018/08/06/635911260/germany-turns-to-brown-coal-to-fill-its-energy-gap",
+    "image": "https://media.npr.org/assets/img/2018/08/06/ap_17303631125066-8d6d67b31b3e43a93b318eedfd241a17dcce87df.jpg",
+    "description": "Centuries-old villages are being bulldozed to make way for open-pit brown coal mines."
+  },
+  {
+    "id": 25,
+    "title": "Auschwitz Remembrance Is Tinged With Tension Over Poland's Holocaust Speech Law",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "15th April 2018",
+    "url": "https://www.npr.org/sections/parallels/2018/04/15/602300342/auschwitz-remembrance-is-tinged-with-tension-over-polands-holocaust-speech-law",
+    "image": "https://media.npr.org/assets/img/2018/04/13/2018_0412_auschwitz_enicholson_2-2_custom-56666f3bc2f505f777c038270644fa5fcbc83eba.jpg",
+    "description": "Survivors and victims' descendants traveled from around the world to the Nazi death camp."
+  },
+  {
+    "id": 26,
+    "title": "Germany's 'Babylon Berlin' Crime Series Is Like 'Cabaret' On Cocaine",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "31st January 2018",
+    "url": "https://www.npr.org/2018/01/30/581543050/germanys-babylon-berlin-crime-series-is-like-cabaret-on-cocaine",
+    "image": "https://media.npr.org/assets/img/2018/01/30/babylon-berlin_2_wide-f59d143a37c0dc3142af3a4e450552854c1e7eb3.jpg",
+    "description": "The show captures a briefly exhilarating time between the world wars, when Berlin had a raging nightlife."
+  },
+  {
+    "id": 27,
+    "title": "Satirist Takes Berlin Holocaust Memorial Selfie-Takers To Task",
+    "show": "Feature",
+    "broadcaster": "National Public Radio",
+    "date": "24th January 2017",
+    "url": "https://www.npr.org/sections/parallels/2017/01/24/511244932/satirist-takes-berlin-holocaust-memorial-selfie-takers-to-task",
+    "image": "https://media.npr.org/assets/img/2017/01/24/gettyimages-589479238_custom-bc66a5a4a2c5a9a252da2dd69f63763d3e64cdd2.jpg",
+    "description": "A Berlin-based Israeli satirist tweaks selfies taken at the memorial to elicit discomfort — and reflection."
+  },
+  {
+    "id": 28,
+    "title": "European Pirate Radio Network Broadcasts Alternative To Syria's State Media",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "20th January 2016",
+    "url": "https://www.npr.org/2016/01/20/463680944/european-pirate-radio-network-broadcasts-alternative-to-syria-s-state-media",
+    "image": "images/npr_og.png",
+    "description": "A non-profit organization in Berlin has invented a small portable transmitter for Syrians."
+  },
+  {
+    "id": 29,
+    "title": "In Berlin, Grassroots Efforts Work To Integrate Inner-City Schools",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "5th March 2015",
+    "url": "https://www.npr.org/sections/parallels/2015/03/05/390753243/in-berlin-integration-is-child-s-play",
+    "image": "https://media.npr.org/assets/img/2015/03/05/102703492_wide-6c976290cbea90b0ba1d4bbb0f03e81da10c43c9.jpg",
+    "description": "Small parent-led initiatives have been working to change perceptions and enrollment."
+  },
+  {
+    "id": 30,
+    "title": "In Berlin, A Beat That Bloomed From Rubble",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "9th November 2014",
+    "url": "https://www.npr.org/2014/11/09/362060168/in-berlin-a-beat-that-bloomed-from-rubble",
+    "image": "https://media.npr.org/assets/img/2014/11/06/1946628_nicholson_tacheles_1990_custom-6f2d3efc431d30a3ab988bab31b9339e426f70dd.jpg",
+    "description": "Today Berlin is a techno hot spot. The scene has its roots in the fall of the Berlin Wall."
+  },
+  {
+    "id": 31,
+    "title": "The Cold War Broadcast That Gave East German Dissidents A Voice",
+    "show": "Weekend Edition",
+    "broadcaster": "National Public Radio",
+    "date": "8th November 2014",
+    "url": "https://www.npr.org/sections/parallels/2014/11/08/361160675/the-cold-war-broadcast-that-gave-east-german-dissidents-a-voice",
+    "image": "https://media.npr.org/assets/img/2014/11/06/berlin-pirate-radio_custom-5cd869304d6912cd14e5b607e5459e3599b5329a.jpg",
+    "description": "East Germans described their grievances on cassette tapes that were smuggled to West Berlin."
+  },
+  {
+    "id": 32,
+    "title": "Bearing Witness To Nazis' Life-Shattering Kristallnacht",
+    "show": "Weekend Edition",
+    "broadcaster": "National Public Radio",
+    "date": "9th November 2013",
+    "url": "https://www.npr.org/2013/11/09/241903489/bearing-witness-to-nazis-life-shattering-kristallnacht",
+    "image": "https://media.npr.org/assets/img/2013/11/08/Crystal-Night-1_slide-773661a4c3b3d436ef64d31d447c25c42330ceb2.jpg",
+    "description": "On Nov. 9, 1938, the Nazis burned down synagogues, destroyed Jewish businesses and arrested more than 26,000 Jews."
+  }
+]
