@@ -27,6 +27,7 @@
         setupNavShadow();
         setupMobileNav();
         setupActiveSection();
+        setupContactModal();
     }
 
     /**
@@ -178,6 +179,80 @@
             } else {
                 link.classList.remove('active');
             }
+        });
+    }
+
+    /**
+     * Contact modal open/close and form submission
+     */
+    function setupContactModal() {
+        var modal = document.getElementById('contactModal');
+        var contactBtn = document.getElementById('contactBtn');
+        var modalClose = document.getElementById('modalClose');
+        var modalBackdrop = document.getElementById('modalBackdrop');
+        var contactForm = document.getElementById('contactForm');
+        var modalSuccess = document.getElementById('modalSuccess');
+
+        if (!modal || !contactBtn) return;
+
+        function openModal() {
+            modal.classList.add('active');
+            modal.setAttribute('aria-hidden', 'false');
+            document.body.style.overflow = 'hidden';
+            // Focus the first input
+            var firstInput = modal.querySelector('input');
+            if (firstInput) firstInput.focus();
+        }
+
+        function closeModal() {
+            modal.classList.remove('active');
+            modal.setAttribute('aria-hidden', 'true');
+            document.body.style.overflow = '';
+        }
+
+        contactBtn.addEventListener('click', openModal);
+        modalClose.addEventListener('click', closeModal);
+        modalBackdrop.addEventListener('click', closeModal);
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && modal.classList.contains('active')) {
+                closeModal();
+            }
+        });
+
+        contactForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            // Basic validation
+            var name = document.getElementById('contactName').value.trim();
+            var email = document.getElementById('contactEmail').value.trim();
+            var subject = document.getElementById('contactSubject').value.trim();
+            var message = document.getElementById('contactMessage').value.trim();
+
+            if (!name || !email || !subject || !message) return;
+
+            // Submit to Netlify via fetch
+            var formData = new FormData(contactForm);
+
+            fetch('/', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: new URLSearchParams(formData).toString()
+            })
+            .then(function() {
+                contactForm.hidden = true;
+                modalSuccess.hidden = false;
+
+                setTimeout(function() {
+                    contactForm.reset();
+                    contactForm.hidden = false;
+                    modalSuccess.hidden = true;
+                    closeModal();
+                }, 2500);
+            })
+            .catch(function() {
+                alert('Something went wrong. Please try again.');
+            });
         });
     }
 
