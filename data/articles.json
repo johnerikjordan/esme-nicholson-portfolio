@@ -1,6 +1,316 @@
 [
   {
     "id": 1,
+    "title": "Bridging cultural differences through music",
+    "show": "State of the World Podcast",
+    "broadcaster": "National Public Radio",
+    "date": "18th November 2026",
+    "url": "https://www.npr.org/2026/11/18/nx-s1-6046196/bridging-cultural-differences-though-music",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5296x3531+0+0/resize/1200x800!/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F8c%2F7068708a4e2f897b844158186e0b%2Fgettyimages-2304057791.jpg",
+    "description": "In today’s episode, a rare good news story arising from the conflict in the Middle East.  It’s about a group of Palestinian and Israeli musicians who perform together as part of a groundbreaking orchestra. We go to Berlin to meet some of them."
+  },
+  {
+    "id": 2,
+    "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+    "show": "Feature",
+    "broadcaster": "National Public Radio",
+    "date": "18th November 2026",
+    "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1200x675!/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2Fef%2Fd82de5a44adaa655033d34b2db6a%2Ffarflungpostcard-en-berlin.jpg",
+    "description": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I."
+  },
+  {
+    "id": 3,
+    "title": "Orchestra of Israeli and Palestinian musicians continues to make music",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "18th November 2026",
+    "url": "https://www.npr.org/2026/11/18/nx-s1-6043148/orchestra-of-israeli-and-palestinian-musicians-continues-to-make-music-despite-chaos",
+    "image": "images/npr_og.png",
+    "description": "A group of Israeli and Palestinian musicians remains committed to making music together as part of a groundbreaking orchestra."
+  },
+  {
+    "id": 4,
+    "title": "South African human rights lawyer Navi Pillay wins the Nobel Peace Prize",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "9th October 2026",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5059x3373+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F31%2F4e0788594e11a7043f9c2664f902%2Fgettyimages-2298735670.jpg",
+    "description": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law."
+  },
+  {
+    "id": 5,
+    "title": "Former German spy chief to face charges of espionage and attempted treason",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "7th October 2026",
+    "url": "https://www.npr.org/2026/10/07/nx-s1-5992954/former-german-spy-chief-to-face-charges-of-espionage-and-attempted-treason",
+    "image": "images/npr_og.png",
+    "description": "A former German foreign intelligence chief will appear in court Wednesday following allegations he used classified information for commercial gain."
+  },
+  {
+    "id": 6,
+    "title": "Germany's ex-foreign intelligence agency chief is arrested on suspicion of espionage",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "6th October 2026",
+    "url": "https://www.npr.org/2026/10/06/nx-s1-5992669/germanys-ex-foreign-intelligence-agency-chief-is-arrested-on-suspicion-of-espionage",
+    "image": "images/npr_og.png",
+    "description": "Germany's former foreign intelligence agency chief has been arrested on suspicion of treasonous espionage. A former high-ranking aide has also been arrested."
+  },
+  {
+    "id": 7,
+    "title": "Following far-right and far-left gains, Germany's center struggles for relevance",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "2nd October 2026",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5981291/following-far-right-and-far-left-gains-germanys-center-struggles-for-relevance",
+    "image": "images/npr_og.png",
+    "description": "After gains for the far-right and far-left, Germany's centrist politicians are soul-searching among echoes of a past that led to the collapse of the Weimar Republic and rise of fascism decades ago."
+  },
+  {
+    "id": 8,
+    "title": "Germany's political center fights for relevance after far-right and far-left gains",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "2nd October 2026",
+    "url": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3558x2400+0+0/resize/1200x809!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Fce%2Fa3c4e61844c191f71b542f62b12d%2Fgettyimages-2295879496.jpg",
+    "description": "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions, political fragmentation and dire economy echo a past that led to the rise of fascism."
+  },
+  {
+    "id": 9,
+    "title": "Germany's leader stands his ground after his party loses in state elections",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "21st September 2026",
+    "url": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6211x4143+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fb9%2F40663d144d0c832afd763d006499%2Fgettyimages-2295702844.jpg",
+    "description": "German Chancellor Freidrich Merz conceded that the night spells \"disaster\" for the political center, but assured the public he'd push ahead with his federal agenda of tax and welfare reforms."
+  },
+  {
+    "id": 10,
+    "title": "Germany's chancellor facing pressure after far right gains ground",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "21st September 2026",
+    "url": "https://www.npr.org/2026/09/21/nx-s1-5975448/germanys-chancellor-facing-pressure-after-far-right-gains-ground",
+    "image": "images/npr_og.png",
+    "description": "Germany's Chancellor Friedrich Merz is under pressure after another bruising night at the polls — with the far right gaining ground in yet another state — and the left making gains in Berlin."
+  },
+  {
+    "id": 11,
+    "title": "Could Germany's far-right AfD party gain ground in liberal Berlin?",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "19th September 2026",
+    "url": "https://www.npr.org/2026/09/19/nx-s1-5972995/could-germanys-far-right-afd-party-gain-ground-in-liberal-berlin",
+    "image": "images/npr_og.png",
+    "description": "The far-right AfD is campaigning in neighborhoods it previously would never have gone near, marking a noteworthy shift in the left-leaning capital city, where local elections take place on Sunday."
+  },
+  {
+    "id": 12,
+    "title": "A Russian election and a warning to Europe about Russian aggression",
+    "show": "State of the World Podcast",
+    "broadcaster": "National Public Radio",
+    "date": "18th September 2026",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5974242/a-russian-election-and-a-warning-to-europe-about-russian-aggression",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5097x3455+0+0/resize/1200x813!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F69%2F0f5c8d8c431fb23f839bec37ea20%2Ff0a9ef8c-b0c6-45a4-9158-09bee5e40b28.jpg",
+    "description": "Poland’s Prime Minister Donald Tusk says that Russia is planning “accidental” strikes on countries supporting Ukraine. This comes after a number of incidents, blamed on Russia, in countries that are part of the NATO alliance."
+  },
+  {
+    "id": 13,
+    "title": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "18th September 2026",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7074x4718+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F0c%2F7e368d934728b9b0d07c9473d301%2Fgettyimages-2283881031.jpg",
+    "description": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\""
+  },
+  {
+    "id": 14,
+    "title": "The UK pushes back on Israeli settlements; a far-right win in Germany",
+    "show": "State of the World Podcast",
+    "broadcaster": "National Public Radio",
+    "date": "8th September 2026",
+    "url": "https://www.npr.org/2026/09/08/nx-s1-5961543/the-uk-pushes-back-on-israeli-settlements-a-far-right-win-in-germany",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4100x2733+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F88%2F973f1ebd44609542b43c2d144f90%2Fdc129549-87ed-4937-9717-30d4ad253525.jpg",
+    "description": "The United Kingdom announced a major reset of its relations with Israel.  And the country’s foreign minister used surprisingly strong language in explaining the move.  The UK was joined by France, Canada and nine other countries who say they’re all banning trade with Israeli settlements in the occupied West Bank, which are considered illegal under international law.  Israel and its closest ally, the United States, condemned the move and Israel says it’s retaliating.  Our reporter in London explains what prompted this move."
+  },
+  {
+    "id": 15,
+    "title": "The far-right AfD's victory in eastern Germany has sent a political signal to Berlin",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "7th September 2026",
+    "url": "https://www.npr.org/2026/09/07/nx-s1-5960390/the-far-right-afds-victory-in-eastern-germany-has-sent-a-political-signal-to-berlin",
+    "image": "images/npr_og.png",
+    "description": "A landslide victory for the far-right AfD in a tiny German region sends seismic political tremors far beyond its borders."
+  },
+  {
+    "id": 16,
+    "title": "Germany's far-right achieves an electoral breakthrough in key state election",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "6th September 2026",
+    "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6671x4447+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F8b%2F4944bf8c48818ed67eaa4a898590%2Fap26249584589925.jpg",
+    "description": "Germany's populist, far-right Alternative for Germany party has declared victory in the state of Saxony-Anhalt after more than doubling its share of the vote in the first of several regional elections this fall."
+  },
+  {
+    "id": 17,
+    "title": "Germany's far-right AfD party is poised for power in a state election",
+    "show": "Weekend Edition",
+    "broadcaster": "National Public Radio",
+    "date": "4th September 2026",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6836x4560+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2F6e%2F17faf31e4c8fbf8be9941afc5607%2Fgettyimages-2292035279.jpg",
+    "description": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II."
+  },
+  {
+    "id": 18,
+    "title": "In Munich, it's never too early for a breakfast beer with sausage and pretzels",
+    "show": "Weekend Edition",
+    "broadcaster": "National Public Radio",
+    "date": "9th August 2026",
+    "url": "https://www.npr.org/2026/08/09/nx-s1-5900954/in-munich-its-never-too-early-for-a-breakfast-beer-with-sausage-and-pretzels",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1512x851+0+468/resize/1200x675!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2Fc6%2F943e79104125b078e54170b51430%2Fimg-3148.jpg",
+    "description": "Bavarians traditionally wash down a breakfast of boiled veal sausage, sweet mustard and a giant pretzel with beer — all before the church bells ring at midday."
+  },
+  {
+    "id": 19,
+    "title": "Why Russia’s strikes on Ukraine are more intense; Germany’s song of the summer",
+    "show": "State of the World Podcast",
+    "broadcaster": "National Public Radio",
+    "date": "4th August 2026",
+    "url": "https://www.npr.org/2026/08/04/nx-s1-5920344/why-russias-strikes-on-ukraine-are-more-intense-germanys-song-of-the-summer",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5733x3822+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2F2e%2F767ac4094b0f8ab8a00f3d096738%2Fa93f3d04-5cd9-4827-a1cd-fa1995538b2b.jpg",
+    "description": "Ukraine’s defense forces have beaten back many types of Russian attacks during more than four years of war. But recently there has been a glaring weakness in their defenses: from Russian ballistic missiles. Those kinds of attacks are repelled by U.S.-made Patriot air defense missiles.  Ukraine is desperately short of them and even the U.S. supplies of Patriot missiles are dwindling.  We go to Kyiv to hear what the shortage means for Ukraine."
+  },
+  {
+    "id": 20,
+    "title": "Germany's Youth Word of the Year shortlist includes viral 'Doobie Scoot Canoe' meme",
+    "show": "Weekend Edition",
+    "broadcaster": "National Public Radio",
+    "date": "2nd August 2026",
+    "url": "https://www.npr.org/2026/08/02/nx-s1-5912166/germanys-youth-word-of-the-year-shortlist-includes-viral-doobie-scoot-canoe-meme",
+    "image": "images/npr_og.png",
+    "description": "Germany's Langenscheidt dictionary publisher awards an annual prize for best new word or phrase as voted by teenagers. This year, the phrase \"du bist gut genug\"(you are good enough), from a song that went viral, is on the shortlist. It's better known as \"doobie scoot canoe.\""
+  },
+  {
+    "id": 21,
+    "title": "Authorities say deadly car ramming at Berlin Pride was an Islamist terrorist attack",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "27th July 2026",
+    "url": "https://www.npr.org/2026/07/27/nx-s1-5908499/authorities-say-deadly-car-ramming-at-berlin-pride-was-an-islamist-terrorist-attack",
+    "image": "images/npr_og.png",
+    "description": "German officials termed the deadly car ramming attack near the Berlin pride celebration that killed one and injured dozens an Islamist terrorist attack"
+  },
+  {
+    "id": 22,
+    "title": "Toxic caterpillar infestation closes German parks during record-breaking heat",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "30th June 2026",
+    "url": "https://www.npr.org/2026/06/30/nx-s1-5874862/toxic-caterpillar-infestation-closes-german-parks-during-record-breaking-heat",
+    "image": "images/npr_og.png",
+    "description": "An infestation of toxic caterpillars has forced German authorities to close shady public green spaces as people seek relief from record-breaking heat"
+  },
+  {
+    "id": 23,
+    "title": "Greetings from Porto, whose lanes are lined with colorful textiles",
+    "show": "Feature",
+    "broadcaster": "National Public Radio",
+    "date": "3rd June 2026",
+    "url": "https://www.npr.org/2026/06/03/g-s1-124469/porto-portugal-linens-textiles",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1200x675!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F5e%2Fe6a747a9476281d79bb559d30ff8%2Ffarflungpostcard-en.jpg",
+    "description": "Linen scarves, cotton aprons and dishtowels adorn the entrances to souvenir shops, many of which are run by Bangladeshis whose home country shares Portugal's rich tradition of textile manufacturing."
+  },
+  {
+    "id": 24,
+    "title": "Israel's participation strikes a sour note at annual Eurovision Song Contest",
+    "show": "Morning Edition",
+    "broadcaster": "National Public Radio",
+    "date": "14th May 2026",
+    "url": "https://www.npr.org/2026/05/14/nx-s1-5818470/israels-participation-strikes-a-sour-note-at-annual-eurovision-song-contest",
+    "image": "images/npr_og.png",
+    "description": "Tensions about Israel's participation loom over the annual Eurovision Song Contest."
+  },
+  {
+    "id": 25,
+    "title": "AI robot tech bros dogs run wild in Berlin gallery",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "1st May 2026",
+    "url": "https://www.npr.org/2026/05/01/nx-s1-5795427/a-pack-of-ai-controlled-robotic-dogs-berlin",
+    "image": "images/npr_og.png",
+    "description": "In Germany, robotic AI dogs with the faces of tech's most powerful men are on the loose — courtesy of American artist Beeple."
+  },
+  {
+    "id": 26,
+    "title": "The Austrian nuns who fled their care home are now in Rome and visited the Vatican",
+    "show": "Feature",
+    "broadcaster": "National Public Radio",
+    "date": "29th April 2026",
+    "url": "https://www.npr.org/2026/04/29/g-s1-119191/austria-nuns-vatican-rome",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6248x4464+0+0/resize/1200x857!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2F97%2F2777f7754857b6d64fc54d86aa90%2Fgettyimages-2235988357.jpg",
+    "description": "The three octogenarian nuns, who made headlines last year after they broke back into their convent, joined others at St. Peter's Square for a general audience with Pope Leo XIV on Wednesday morning."
+  },
+  {
+    "id": 27,
+    "title": "Election winner Peter Magyar sets new course for Hungary",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "13th April 2026",
+    "url": "https://www.npr.org/2026/04/13/nx-s1-5777744/election-winner-peter-magyar-sets-new-course-for-hungary",
+    "image": "images/npr_og.png",
+    "description": "Hungary's new leader Peter Magyar promises democratic renewal, closer ties with Europe, and national unity."
+  },
+  {
+    "id": 28,
+    "title": "Viktor Orbán concedes defeat in historic Hungary election",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "12th April 2026",
+    "url": "https://www.npr.org/2026/04/12/nx-s1-5773324/viktor-orban-concedes-defeat-in-historic-hungary-election",
+    "image": "images/npr_og.png",
+    "description": "Hungarians turned out in historic numbers to vote against Prime Minister Viktor Orbán's and his Fidesz party. NPR's Rob Schmitz discusses with reporter Esme Nicholson and political scientist Abel Bojar."
+  },
+  {
+    "id": 29,
+    "title": "Hungary's Viktor Orbán concedes defeat, ending 16 years in power",
+    "show": "Feature",
+    "broadcaster": "National Public Radio",
+    "date": "12th April 2026",
+    "url": "https://www.npr.org/2026/04/12/nx-s1-5782671/hungary-viktor-orban-concedes-defeat",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3028x2019+0+0/resize/1200x800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F3e%2F09472f084a70b37855b9924d7015%2Fgettyimages-2269674997.jpg",
+    "description": "Hungarian voters turned out in the greatest numbers since the 1990s to turn away from Prime Minister Viktor Orbán's right-wing populist Fidesz party."
+  },
+  {
+    "id": 30,
+    "title": "Hungarian Prime Minister Viktor Orbán seeks a fifth consecutive term in office",
+    "show": "Weekend Edition",
+    "broadcaster": "National Public Radio",
+    "date": "12th April 2026",
+    "url": "https://www.npr.org/2026/04/12/nx-s1-5773266/hungarian-prime-minister-viktor-orban-seeks-a-fifth-consecutive-term-in-office",
+    "image": "images/npr_og.png",
+    "description": "Over eight million Hungarians are eligible to vote in elections that could topple Viktor Orban, a European ally of President Trump."
+  },
+  {
+    "id": 31,
+    "title": "Germany's railways struggle with delays and underinvestment",
+    "show": "All Things Considered",
+    "broadcaster": "National Public Radio",
+    "date": "31st December 2025",
+    "url": "https://www.npr.org/2025/12/31/nx-s1-5588464/germanys-railways-struggle-with-delays-and-underinvestment",
+    "image": "images/npr_og.png",
+    "description": "After decades of neglect, Germany has announced a 100-billion-euros investment into the national railway operator. But some say it will take more than money to get its trains back on track."
+  },
+  {
+    "id": 32,
     "title": "Looking Back: The Story of Three Defiant Nuns in Austria",
     "show": "State of the World Podcast",
     "broadcaster": "National Public Radio",
@@ -10,7 +320,7 @@
     "description": "As we look back at our international reporters' most memorable stories of the last year, we revisit the story of the defiant Austrian nuns."
   },
   {
-    "id": 2,
+    "id": 33,
     "title": "Why should Europe re-engage with the Sahel's military-led states?",
     "show": "Podcast",
     "broadcaster": "Stiftung Wissenschaft & Politik",
@@ -20,7 +330,7 @@
     "description": "A podcast episode discussing why and how the EU should re-engage with the Sahel region."
   },
   {
-    "id": 3,
+    "id": 34,
     "title": "The beginning of the end of democracy? How the US is sliding towards authoritarianism",
     "show": "Podcast",
     "broadcaster": "Stiftung Wissenschaft & Politik",
@@ -30,7 +340,7 @@
     "description": "A podcast discussion examining authoritarian tactics and whether U.S. democracy can be preserved."
   },
   {
-    "id": 4,
+    "id": 35,
     "title": "Germany sees anti-Pride events and restricts rainbow flags ahead of LGBTQ+ parties",
     "show": "Morning Edition",
     "broadcaster": "National Public Radio",
@@ -40,7 +350,7 @@
     "description": "The head of parliament banned the rainbow flag from the legislative building. Far-right groups have rallied against the LGBTQ+ community."
   },
   {
-    "id": 5,
+    "id": 36,
     "title": "Germany's grandmothers take on the far-right ahead of key state elections",
     "show": "All Things Considered",
     "broadcaster": "National Public Radio",
@@ -50,7 +360,7 @@
     "description": "Senior women in Germany's east are reaching out to supporters of the far-right Alternative for Germany to try to change minds."
   },
   {
-    "id": 6,
+    "id": 37,
     "title": "Climate change threatens Germany's fairy tale forests",
     "show": "Morning Edition",
     "broadcaster": "National Public Radio",
@@ -60,7 +370,7 @@
     "description": "Germany's dense green spruce forests are being decimated by parasites and climate change."
   },
   {
-    "id": 7,
+    "id": 38,
     "title": "Fax machines permeate Germany's business culture. But parliament is ditching them",
     "show": "Morning Edition",
     "broadcaster": "National Public Radio",
@@ -70,7 +380,7 @@
     "description": "Four out of five companies in Europe's largest economy continue to use fax machines."
   },
   {
-    "id": 8,
+    "id": 39,
     "title": "Germany's far-right AfD is using TikTok to vie for the immigrant vote",
     "show": "Weekend Edition",
     "broadcaster": "National Public Radio",
@@ -80,7 +390,7 @@
     "description": "In the upcoming elections, the German Anti-Immigrant Party seeks votes from Turkish-German Voters."
   },
   {
-    "id": 9,
+    "id": 40,
     "title": "War without limits: Reducing violence against civilians in contemporary conflicts",
     "show": "Podcast",
     "broadcaster": "Stiftung Wissenschaft & Politik",
@@ -90,7 +400,7 @@
     "description": "A podcast discussing reducing violence against civilians in contemporary conflicts."
   },
   {
-    "id": 10,
+    "id": 41,
     "title": "Why Western Leaders are warily watching the German leader's trip to China",
     "show": "All Things Considered",
     "broadcaster": "National Public Radio",
@@ -100,7 +410,7 @@
     "description": "German Chancellor Olaf Scholz heads to China to meet with President Xi Jinping."
   },
   {
-    "id": 11,
+    "id": 42,
     "title": "Abortion-rights activists in Germany aim to make the procedure more widely available",
     "show": "Morning Edition",
     "broadcaster": "National Public Radio",
@@ -110,7 +420,7 @@
     "description": "The EU Parliament voted in favor of a resolution to make abortion a fundamental right."
   },
   {
-    "id": 12,
+    "id": 43,
     "title": "Ukrainian Holocaust survivors flee war again — this time to Germany",
     "show": "All Things Considered",
     "broadcaster": "National Public Radio",
@@ -120,7 +430,7 @@
     "description": "Germany has welcomed dozens of the oldest refugees fleeing Ukraine — those who survived the Holocaust during World War II."
   },
   {
-    "id": 13,
+    "id": 44,
     "title": "Germany Grapples With Racism After Threats Derail Refugee's Candidacy For Parliament",
     "show": "Morning Edition",
     "broadcaster": "National Public Radio",
@@ -130,7 +440,7 @@
     "description": "A Syrian refugee in Germany withdrew his bid for parliament over racist threats last month."
   },
   {
-    "id": 14,
+    "id": 45,
     "title": "Ecofeminism, social media & the Climate Crisis",
     "show": "Our Voices, Our Choices Podcast",
     "broadcaster": "Heinrich Böll Stiftung",
@@ -140,7 +450,7 @@
     "description": "Environmental activists discuss why the climate crisis is a feminist issue."
   },
   {
-    "id": 15,
+    "id": 46,
     "title": "Social Media Justice",
     "show": "Our Voices, Our Choices Podcast",
     "broadcaster": "Heinrich Böll Stiftung",
@@ -150,7 +460,7 @@
     "description": "A podcast episode exploring social media justice."
   },
   {
-    "id": 16,
+    "id": 47,
     "title": "'An Era Is Coming To An End': Travelers Bid Fond Farewell To Berlin's Tegel Airport",
     "show": "Weekend Edition",
     "broadcaster": "National Public Radio",
@@ -160,7 +470,7 @@
     "description": "The airport opened in 1948 and is closing as Berlin's new international hub opens."
   },
   {
-    "id": 17,
+    "id": 48,
     "title": "'The House By The Lake' Is A Story Of Reconciliation — And The Meaning Of Home",
     "show": "Feature",
     "broadcaster": "National Public Radio",
@@ -170,7 +480,7 @@
     "description": "Thomas Harding wrote a memoir centered on what became of his great-grandparents' German house."
   },
   {
-    "id": 18,
+    "id": 49,
     "title": "Feminist Digital Disruption during the Covid-19 Pandemic",
     "show": "Our Voices, Our Choices Podcast",
     "broadcaster": "Heinrich Böll Stiftung",
@@ -180,7 +490,7 @@
     "description": "Exploring how feminist activists adapted digital practices during lockdowns."
   },
   {
-    "id": 19,
+    "id": 50,
     "title": "In Quiet-Loving Germany, Motorcyclists Protest A Possible Ban On Loud Sunday Rides",
     "show": "Morning Edition",
     "broadcaster": "National Public Radio",
@@ -190,7 +500,7 @@
     "description": "Germans abide by a host of laws to keep noise at a minimum after 10 p.m. and on Sundays."
   },
   {
-    "id": 20,
+    "id": 51,
     "title": "Meet the Jews of the German Far Right",
     "show": "All Things Considered",
     "broadcaster": "National Public Radio",
@@ -200,7 +510,7 @@
     "description": "Fellow Jews in the country are baffled by a small Jewish faction within the Alternative for Germany."
   },
   {
-    "id": 21,
+    "id": 52,
     "title": "German Farmers Struck By Drought Fear Further Damage From Climate Change",
     "show": "All Things Considered",
     "broadcaster": "National Public Radio",
@@ -210,7 +520,7 @@
     "description": "High temperatures and a severe drought have hit food production in Germany."
   },
   {
-    "id": 22,
+    "id": 53,
     "title": "Massacre Of Teens In Norway Retold As A Feature Film",
     "show": "Weekend Edition",
     "broadcaster": "National Public Radio",
@@ -220,7 +530,7 @@
     "description": "Captured in one 72-minute take, U — July 22 re-enacts the 2011 murders at a summer camp."
   },
   {
-    "id": 23,
+    "id": 54,
     "title": "Minorities In Germany Are Sounding Off Against Racism With #MeTwo Hashtag",
     "show": "Morning Edition",
     "broadcaster": "National Public Radio",
@@ -230,7 +540,7 @@
     "description": "After a German soccer player of Turkish descent was criticized during the World Cup, other minorities in Germany have been speaking out."
   },
   {
-    "id": 24,
+    "id": 55,
     "title": "Germany Bulldozes Old Villages For Coal Despite Lower Emissions Goals",
     "show": "Morning Edition",
     "broadcaster": "National Public Radio",
@@ -240,7 +550,7 @@
     "description": "Centuries-old villages are being bulldozed to make way for open-pit brown coal mines."
   },
   {
-    "id": 25,
+    "id": 56,
     "title": "Auschwitz Remembrance Is Tinged With Tension Over Poland's Holocaust Speech Law",
     "show": "All Things Considered",
     "broadcaster": "National Public Radio",
@@ -250,7 +560,7 @@
     "description": "Survivors and victims' descendants traveled from around the world to the Nazi death camp."
   },
   {
-    "id": 26,
+    "id": 57,
     "title": "Germany's 'Babylon Berlin' Crime Series Is Like 'Cabaret' On Cocaine",
     "show": "All Things Considered",
     "broadcaster": "National Public Radio",
@@ -260,7 +570,7 @@
     "description": "The show captures a briefly exhilarating time between the world wars, when Berlin had a raging nightlife."
   },
   {
-    "id": 27,
+    "id": 58,
     "title": "Satirist Takes Berlin Holocaust Memorial Selfie-Takers To Task",
     "show": "Feature",
     "broadcaster": "National Public Radio",
@@ -270,7 +580,7 @@
     "description": "A Berlin-based Israeli satirist tweaks selfies taken at the memorial to elicit discomfort — and reflection."
   },
   {
-    "id": 28,
+    "id": 59,
     "title": "European Pirate Radio Network Broadcasts Alternative To Syria's State Media",
     "show": "Morning Edition",
     "broadcaster": "National Public Radio",
@@ -280,7 +590,7 @@
     "description": "A non-profit organization in Berlin has invented a small portable transmitter for Syrians."
   },
   {
-    "id": 29,
+    "id": 60,
     "title": "In Berlin, Grassroots Efforts Work To Integrate Inner-City Schools",
     "show": "Morning Edition",
     "broadcaster": "National Public Radio",
@@ -290,7 +600,7 @@
     "description": "Small parent-led initiatives have been working to change perceptions and enrollment."
   },
   {
-    "id": 30,
+    "id": 61,
     "title": "In Berlin, A Beat That Bloomed From Rubble",
     "show": "All Things Considered",
     "broadcaster": "National Public Radio",
@@ -300,7 +610,7 @@
     "description": "Today Berlin is a techno hot spot. The scene has its roots in the fall of the Berlin Wall."
   },
   {
-    "id": 31,
+    "id": 62,
     "title": "The Cold War Broadcast That Gave East German Dissidents A Voice",
     "show": "Weekend Edition",
     "broadcaster": "National Public Radio",
@@ -310,7 +620,7 @@
     "description": "East Germans described their grievances on cassette tapes that were smuggled to West Berlin."
   },
   {
-    "id": 32,
+    "id": 63,
     "title": "Bearing Witness To Nazis' Life-Shattering Kristallnacht",
     "show": "Weekend Edition",
     "broadcaster": "National Public Radio",
