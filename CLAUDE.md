@@ -42,6 +42,17 @@ The script follows these rules. Use the same ones when editing tiles by hand.
   `https://npr.brightspotcdn.com/dims3/default/strip/false/crop/{W}x{H}+0+0/resize/1200x{1200*H/W}!/?url={source}`.
   For a portrait original, use NPR's own 16:9 crop from `og:image` instead. Stories without a photo use `images/npr_og.png`.
 
+## Adding SWP podcast episodes (links supplied by the user)
+
+There is no script for these; the user pastes the episode URLs.
+
+- **Tile:** title from the page's `<h1>` with curly apostrophes made straight and any "Megatrends Afrika: " prefix dropped. Show `Podcast`, broadcaster `Stiftung Wissenschaft & Politik`, date from the page's `datePublished`. Insert tiles in date order.
+- **Thumbnail:** a local copy saved as `images/swp_NN_og.jpg`, numbering on from the highest existing number. The image is SWP's own 464×464 square (the publication photo, centre-cropped). Look for it in this order:
+  1. The episode page: an `<img … height="464">` whose filename contains the episode's photo ID (e.g. `2024eP02_455481016`).
+  2. The podcast listing, https://www.swp-berlin.org/en/service/swp-podcasts, which shows the 10 latest episodes, each with its square.
+  3. If neither has it, make it yourself: take the original photo (`/assets/swp/Publikationsbilder/…` or `/publications/products/Podcast/…`), centre-crop it to a square with `sips -c`, then resize it to 464×464 with `sips -z`. This gives the same framing as SWP's version.
+- Download images into an empty scratchpad folder first, and check that each one is a 464×464 JPEG before copying it into `images/`.
+
 ## NPR source
 
 - **Author page:** https://www.npr.org/people/913987374/esme-nicholson, with 24 stories on the first page.
